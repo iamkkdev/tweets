@@ -26,7 +26,7 @@ This dataset is sourced from Kaggle, and can be found at the following link: htt
 Data Preprocessing
 Before using this dataset for machine learning models, it may require some preprocessing. For example, the location and keyword columns may require cleaning and normalization. Additionally, the text column may require preprocessing steps such as tokenization, stemming, and stopword removal.
 
-![location](/Users/krishnadevabhaktuni/Desktop/GA/Capstone/images/location.png)
+![location](./images/location.png)
 
 
 Model Building
