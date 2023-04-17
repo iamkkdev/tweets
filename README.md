@@ -43,6 +43,8 @@ The goal of this dataset is to build a machine learning model to predict whether
 
 #### Most of the models had an accuracy of about 80% on test score, however, because of the similarity of the words used in both real and fake tweets more data is required for our Machine learning models to classify these tweets with high accuracy
 
+#### Finally a streamlit app was made where anyone can predict ant tweet as Fake or Real
+
 
 
 
